@@ -1,0 +1,53 @@
+---
+title: "Contacto Asociaciones."
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+
+```{r import, warning=FALSE, message=FALSE}
+# Paquete para manipulación de datos
+library(dplyr)
+
+# Paquete para manejo de datos vectoriales
+library(sf)
+
+# Paquete para manejo de tablas
+library(DT)
+library(st)
+library(tidyverse)
+
+# Paquetes para graficación
+library(ggplot2)
+library(plotly)
+```
+
+
+```{r cargadatos}
+
+# Lectura de un archivo CSV con datos de Recolección de residuos solidos 2019
+tabla <-
+  st_read(
+    "/vsicurl/https://raw.githubusercontent.com/MontserratJB/Tablas_DA_2022/master/Lista%20de%20Asociaciones%20y%20Comites%20de%20Vecinos.csv"
+    ,
+    quiet = TRUE
+  )
+```
+
+
+## Recolección de residuos solidos Año 2019 {data-width=4}
+
+```{r tabla}
+#Tabla
+tabla %>%
+  select(NOMBRE, DISTRITO, CORREO, RESPONSABLE, TELEFONO) %>%
+datatable( tabla, options = list(
+  language = list(url = '//cdn.datatables.net/plug-ins/1.10.11/i18n/Spanish.json')
+))
+
+```
