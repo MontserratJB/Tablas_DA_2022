@@ -1,10 +1,10 @@
-NO;PRESUPUESTO;DISTRITO;PROYECTO; MONTO_ASIGNADO ; MONTO_ADJUDICADO ;AVANCE;ESTADO;OBSERVACIONES
+NO;PRESUPUESTO;DISRTRITO;PROYECTO; MONTO ASIGNADO ; MONTO ADJUDICADO ;% AVANCE;ESTADO;OBSERVACIONES
 1;ORDINARIO;4 DISTRITOS;Mantenimiento preventivo del mobiliario urbano instalado por la minicipalidad  en parques del canton;10 000 000;9 230 092;100%;Finalizado;
 2;ORDINARIO;SAN PEDRO;Realizar las obras de mejora al Centro Comunal y Cultural Barrio Pinto, distrito San Pedro.;27 355 683;0;0%;Iniciado;
 3;ORDINARIO;SAN PEDRO;Ejecutar la reparacion del cielo raso en el Salon Comunal Barrio Saprissa, Calle Quiros, distrito San Pedro.;11 400 306;9 804 000;100%;Finalizado;
-4;ORDINARIO;SAN PEDRO;"Ejecutat el proyecto de recuperacion del parque en la Urbanizacion Barrio Dent ""Parque Los Negritos"", distrito San Pedro.";18 785 548;17 162 000;100%;Finalizado;
+4;ORDINARIO;SAN PEDRO;"Ejecutar el proyecto de recuperacion del parque en la Urbanizacion Barrio Dent ""Parque Los Negritos"", distrito San Pedro.";18 785 548;17 162 000;100%;Finalizado;
 5;ORDINARIO;SAN RAFAEL;Ejecutar el proyecto de remodelacion del espacio fisico del Salon de Alcoholicos Anonimos (antiguo Centro de acopio), distrito San Rafael.;14 160 373;11 728 800;100%;Finalizado;
-6;ORDINARIO;SAN RAFAEL;Realizar el proyecto de construccion de un quiosco en area del parque No4 la Urbanizacion Alfred Nobel, distrito San Rafael.;5 000 000;4 343 900;100%;Finalizado;
+6;ORDINARIO;SAN RAFAEL;Realizar el proyecto de construccion de un quiosco en area del parque N°4 la Urbanizacion Alfred Nobel, distrito San Rafael.;5 000 000;4 343 900;100%;Finalizado;
 7;ORDINARIO;SAN RAFAEL;Realizar las obras para la recuperacion del area comunal del Residencial Sol del Este y Calle Diaz, distrito San Rafael.;7 500 000;6 075 000;100%;Finalizado;
 8;ORDINARIO;SAN RAFAEL;Ejecutar las obras de restauracion del parque de la Urbanizacion Rosemary Karpinsky, distrito San Rafael.;13 187 500;9 804 014;100%;Finalizado;
 9;ORDINARIO;MERCEDES;Realizar el Proyecto integral Pro mejora de parques: Parque Guaymi y Parque para perros Buenos Aires, distrito Mercedes.;10 719 000;9 651 998;100%;Finalizado;
@@ -13,7 +13,7 @@ NO;PRESUPUESTO;DISTRITO;PROYECTO; MONTO_ASIGNADO ; MONTO_ADJUDICADO ;AVANCE;ESTA
 12;ORDINARIO;SABANILLA;Realizar obras de mejoras en las areas comunes de la Urbanizacion La Familia, distrito Sabanilla.;9 627 000;7 704 365;100%;Finalizado;
 13;ORDINARIO;SABANILLA;Ejecutar el proyecto de circuito de recorrido e islas de arborizacion en el Parque del Residencial Ana Maria Guardia, distrito Sabanilla.;8 999 489;7 226 779;100%;Finalizado;
 14;ORDINARIO;SABANILLA;Realizar las obras de mejora requeridas en el parque oeste de la Urbanizacion La Maravilla, distrito Sabanilla.;4 300 000;3 711 900;100%;Finalizado;
-15;extraordinario 2;SAN PEDRO;"Realizar la contratacion de los planos para el diseno de acondicionamiento del espacio fisico para el Centro de la Cultura ""La Mazorca"" de Montes de Oca.";40 000 000;0;0%;Adjudicado;en apelacion de adjudicacion
+15;extraordinario 2;SAN PEDRO;"Realizar la contratacion de los planos para el diseño de acondicionamiento del espacio fisico para el Centro de la Cultura ""La Mazorca"" de Montes de Oca.";40 000 000;0;0%;Adjudicado;en apelacion de adjudicacion
 16;extraordinario 2;SAN RAFAEL;Realizar la construccion de un area  techada entre el pabellon dos y el comedor escolar de la Escuela  Inglaterra, distrito San Rafael;6 000 000;7 827 500;100%;Finalizado;
 17;extraordinario 2;SABANILLA;Ejecutar las obras de estabilizacion del margen quebrada El Cas en el Parque La Marsella, Ana Maria Guardia y Prado.;21 250 000;18 362 100;100%;Finalizado;
 18;extraordinario 2;MERCEDES;Realizar las obras de mejora de la infraestructura del gimnasio del Centro de Educacion Betania, distrito Mercedes.;8 000 000;7 827 500;100%;Finalizado;
